@@ -2,4 +2,4 @@ HelloWorld
 ==========
 
 HelloWorld from DevOps Session
-This is a working session 
+This is a working session on DevOps
